@@ -5,6 +5,7 @@ $ nvm use 6.9
 Now using node v6.9.5 (npm v3.10.10)
 
 $ nvm current
+
 v6.9.5
 
 # loopback-example-access-control
