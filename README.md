@@ -1,6 +1,7 @@
 # Setup this only supports currently node 6.9.5
 
 $ nvm use 6.9
+
 Now using node v6.9.5 (npm v3.10.10)
 
 $ nvm current
